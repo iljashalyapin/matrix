@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2010\Projects\Матрицы\Матрицы\bin\Debug\Матрицы.exe
+c:\users\user\documents\visual studio 2010\Projects\Матрицы\Матрицы\bin\Debug\Матрицы.pdb
+c:\users\user\documents\visual studio 2010\Projects\Матрицы\Матрицы\obj\x86\Debug\Матрицы.exe
+c:\users\user\documents\visual studio 2010\Projects\Матрицы\Матрицы\obj\x86\Debug\Матрицы.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Матрицы\Матрицы\obj\x86\Debug\Матрицы.csprojResolveAssemblyReference.cache
